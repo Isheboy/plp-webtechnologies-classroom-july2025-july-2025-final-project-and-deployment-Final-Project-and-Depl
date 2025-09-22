@@ -1,90 +1,113 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Ishengoma Kakwezi - Creative Portfolio Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+## Purpose
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+A modern, responsive portfolio website showcasing my development skills, projects, and professional journey. Features dynamic GitHub integration, modern design inspired by contemporary web applications, and real project showcases including the award-winning FoodLink AI platform.
+
+## Structure
+
+- `index.html` — Home (hero section, intro, call-to-action)
+- `about.html` — Biography, skills, education, CV download
+- `projects.html` — Featured projects + dynamic GitHub repositories
+- `contact.html` — Contact form with validation + contact information
+- `/css/style.css` — Modern, responsive styling with gradients and animations
+- `/js/script.js` — Interactive features, GitHub API integration, form validation
+- `/images/` — Project screenshots, profile photos, and assets
+
+## Featured Projects
+
+### 🥗 FoodLink AI
+
+- **Live Demo**: [foodlinkai.netlify.app](https://foodlinkai.netlify.app/)
+- **Impact**: 1,240+ meals saved, 14 partners, 7 CSR sponsors
+- **Tech Stack**: React, Node.js, AI/ML, Paystack integration
+- **Description**: Zero hunger solution connecting surplus food providers with communities
+
+### Personal Portfolio Website
+
+- **Current Project**: This responsive portfolio website
+- **Tech Stack**: HTML5, CSS3, JavaScript
+- **Features**: Modern design, GitHub integration, responsive layout
+
+## Features
+
+- **Modern Design**: Gradient backgrounds, card layouts, smooth animations
+- **Responsive Layout**: Mobile-first design with hamburger navigation
+- **Dynamic Content**: GitHub API integration for live repository showcase
+- **Interactive Elements**: Hover effects, form validation, scroll animations
+- **Project Showcase**: Featured projects with images, stats, and live links
+- **Professional Contact**: Enhanced contact form with profile integration
+
+## Technical Implementation
+
+### HTML5 Semantic Structure
+
+- Proper semantic tags (`<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`)
+- Accessible form elements with proper labels
+- SEO-optimized meta tags and descriptions
+
+### CSS Features
+
+- CSS Grid and Flexbox for responsive layouts
+- CSS custom properties for consistent theming
+- Smooth transitions and hover animations
+- Mobile-responsive navigation with hamburger menu
+- Modern gradient backgrounds and card designs
+
+### JavaScript Functionality
+
+- **GitHub API Integration**: Dynamically fetches and displays repositories
+- **Image Matching**: Automatically pairs projects with relevant images
+- **Form Validation**: Client-side validation with user feedback
+- **Mobile Navigation**: Responsive hamburger menu toggle
+- **Scroll Animations**: IntersectionObserver for smooth animations
+
+## Design Inspiration
+
+Modern web application aesthetics with clean layouts, engaging hero sections, and professional project showcases. Color scheme and layout inspired by contemporary SaaS platforms for a professional developer presentation.
+
+## Live Demo
+
+[Live Portfolio](https://iamishengoma.netlify.app/) _(Update with your deployed link)_
+
+## Deployment Instructions
+
+### Deploy to GitHub Pages
+
+1. Push all files to your GitHub repository
+2. Go to Settings → Pages
+3. Set source to `Deploy from a branch`
+4. Select `main` branch and `/ (root)` folder
+5. Save and visit the provided URL
+
+### Deploy to Netlify
+
+1. Connect your GitHub repository to [Netlify](https://netlify.com/)
+2. Configure build settings (if needed):
+   - Build command: `# No build step required`
+   - Publish directory: `./`
+3. Deploy automatically on every push to main branch
+
+## Performance Optimization
+
+- **Images**: Optimized PNG/JPG images for fast loading
+- **Code**: Minified and organized CSS/JS
+- **API**: Efficient GitHub API calls with error handling
+- **Responsive**: Mobile-optimized layouts and images
+
+## Browser Compatibility
+
+- Modern browsers (Chrome, Firefox, Safari, Edge)
+- Mobile responsive design
+- Progressive enhancement for older browsers
+
+## Contact & Social Links
+
+- **Email**: ishengomakakwezi193@gmail.com
+- **Phone**: +255 763 862 970
+- **LinkedIn**: [Ishengoma Kakwezi](https://www.linkedin.com/in/ishengoma-kakwezi-208392342)
+- **GitHub**: [@Isheboy](https://github.com/Isheboy)
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
-
----
-
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
-
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+© 2025 Ishengoma Kakwezi. All rights reserved.
