@@ -4,6 +4,27 @@
 
 A modern, responsive portfolio website showcasing my development skills, projects, and professional journey. Features dynamic GitHub integration, modern design inspired by contemporary web applications, and real project showcases including the award-winning FoodLink AI platform.
 
+## Portfolio Screenshots
+
+### Homepage
+
+![Portfolio Homepage](public/Home-Portfoliowebsite.png)
+_Modern hero section with gradient background and professional introduction_
+
+### Projects Page
+
+![Portfolio Projects](public/Project-Porfoliowebsite.png)
+_Showcase of featured projects including FoodLink AI_
+
+### Contact Page
+
+![Portfolio Contact](public/Contact-Porfoliowebsite.png)
+_Professional contact form with validation and contact information_
+
+## Live Demo
+
+[Live Portfolio](https://ishengomaportfoliowebsite.netlify.app/)
+
 ## Structure
 
 - `index.html` — Home (hero section, intro, call-to-action)
@@ -18,12 +39,16 @@ A modern, responsive portfolio website showcasing my development skills, project
 
 ### 🥗 FoodLink AI
 
+![FoodLink AI Preview](images/foodlink-preview.png)
+
 - **Live Demo**: [foodlinkai.netlify.app](https://foodlinkai.netlify.app/)
 - **Impact**: 1,240+ meals saved, 14 partners, 7 CSR sponsors
 - **Tech Stack**: React, Node.js, AI/ML, Paystack integration
 - **Description**: Zero hunger solution connecting surplus food providers with communities
 
 ### Personal Portfolio Website
+
+![Portfolio Homepage Preview](public/Home-Portfoliowebsite.png)
 
 - **Current Project**: This responsive portfolio website
 - **Tech Stack**: HTML5, CSS3, JavaScript
@@ -37,6 +62,14 @@ A modern, responsive portfolio website showcasing my development skills, project
 - **Interactive Elements**: Hover effects, form validation, scroll animations
 - **Project Showcase**: Featured projects with images, stats, and live links
 - **Professional Contact**: Enhanced contact form with profile integration
+
+### Visual Design Elements
+
+- 🎨 **Modern Gradients**: Eye-catching color schemes
+- 📱 **Mobile Responsive**: Optimized for all devices
+- ⚡ **Interactive Animations**: Smooth scroll effects and hover states
+- 🔗 **GitHub Integration**: Live repository showcase
+- 📋 **Contact Form**: Professional contact with validation
 
 ## Technical Implementation
 
