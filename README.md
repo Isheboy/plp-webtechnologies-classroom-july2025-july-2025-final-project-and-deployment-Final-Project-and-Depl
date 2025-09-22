@@ -68,7 +68,7 @@ Modern web application aesthetics with clean layouts, engaging hero sections, an
 
 ## Live Demo
 
-[Live Portfolio](https://iamishengoma.netlify.app/) _(Update with your deployed link)_
+[Live Portfolio](https://ishengomaportfoliowebsite.netlify.app/)
 
 ## Deployment Instructions
 
